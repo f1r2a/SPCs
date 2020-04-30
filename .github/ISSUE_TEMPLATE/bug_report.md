@@ -7,6 +7,9 @@ assignees: f1r2a
 
 ---
 
+**Reported By**
+Who are you? Type your name
+
 **Describe the bug**
 A clear and concise description of what the bug is.
 
